@@ -1,5 +1,3 @@
-# calculator
-for neoflex
 # Калькулятор отпускных
 
 ## GET /calculate
